@@ -142,7 +142,7 @@ $p4_equipo2_goles  = rand(1, 7);
                 <div>
                     <img src="<?php echo $p4_equipo2_escudo; ?>" alt="escudo"><?php echo $p4_equipo2_nombre; ?>
                 </div>
-                <div><?php echo $p4_equipo2_goles; ?></div>
+                <div><?php echo $p4_equipo2_goles;?></div>
             </div>
         </div>
  
